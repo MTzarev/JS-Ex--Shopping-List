@@ -5,7 +5,6 @@ import List from './components/List.js'
 //import logo from '.src/shopping.jpg'
 function App() {
   return (
-
     <main className='gosho'>
       <div className='withblur'>
     <div className="App">
