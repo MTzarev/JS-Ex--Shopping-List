@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 import './App.css';
 import List from './components/List.js';
-//import ButtonToAdd from './components/ButtonToAdd.js'
+//import ButtonToAdd from './components/ButtonToAdd.js';
 //import logo from '.src/shopping.jpg'
 function App() {
   return (
